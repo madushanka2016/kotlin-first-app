@@ -1,0 +1,4 @@
+E:\SE\my project\logIn ui kotlin\app\src\main\java\com\example\loginuikotlin\MainActivity.kt
+E:\SE\my project\logIn ui kotlin\app\src\main\java\com\example\newtask1\MainActivity.kt
+E:\SE\my project\logIn ui kotlin\app\src\main\java\com\example\newtask1\SecondActivity.kt
+E:\SE\my project\logIn ui kotlin\app\src\main\java\com\example\newtask1\ThirdActivity.kt
